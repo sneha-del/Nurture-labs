@@ -1,0 +1,10 @@
+.mid__top{
+    align-content: center;
+    justify-content: center;
+    margin-left: 27%;
+    margin-top: 20px;
+    margin-right: 21%;
+    height: 65px;
+    display: flex;
+    background-color: aqua;
+}

@@ -1,0 +1,34 @@
+.left{
+  background-color:aliceblue;
+  width:17%;
+height: 700px;
+margin-top: 0%;
+}
+
+.left__item1{
+    color: white;
+    background-color: purple;
+    display: flex;
+}
+.left__item2{
+
+    display: flex;
+}
+.set{
+    display: flex;
+}
+.bill{
+    padding: 6px;
+    margin-left: 35%;
+}
+.icon{
+    margin-top: 20px;
+    margin-left: 34px;
+}
+.h3{
+    margin-left: 10px;
+}
+.x{
+    margin-top: 20px;
+    margin-left: 7px;
+}
