@@ -1,7 +1,18 @@
 .mid{
-    background-color: antiquewhite;
+    position: relative;
+    background-color: #E5E5E5;
+    margin: 0px 0px 10px 260px;
+    padding: 10px;
+    min-height: 1200px;
     
-    margin-left: 18%;
-    height: 100px;
-    
+}
+.res{
+    background-color: #3F0E40;
+    color: #E5E5E5;
+    border-radius: 8px;
+    position: absolute;
+width: 167.84px;
+height: 45px;
+left: 590px;
+top: 750px;
 }

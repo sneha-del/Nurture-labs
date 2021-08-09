@@ -7,8 +7,8 @@ const Main = () => {
         <div className="main">
            
             <Top/>
-            <Mid/>
             <Left/>
+            <Mid/>
            
         </div>
     )

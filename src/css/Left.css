@@ -1,13 +1,14 @@
 .left{
-  background-color:aliceblue;
-  width:17%;
-height: 700px;
-margin-top: 0%;
+  background-color:#FFFFFF;
+  z-index: 1;
+  position: absolute;
+  width: 260px;
+  height: 1000px;
 }
 
 .left__item1{
-    color: white;
-    background-color: purple;
+    color: #FFFFFF;
+    background-color: #3F0E40;
     display: flex;
 }
 .left__item2{

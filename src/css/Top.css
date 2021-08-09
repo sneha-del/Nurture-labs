@@ -1,11 +1,13 @@
 .top{
-   height: 85px;
-   background-color: purple;
-   margin-left: 0;
+   
+   background-color: #3F0E40;
+   margin: 0px;
+   position: relative;
+   min-height: 80px;
 }
 .first{
     display: flex;
-    background-color: aliceblue;
+    background-color: #FFFFFF;
     width: 17%;
 }
 h2{
@@ -21,11 +23,21 @@ h2{
     flex-direction: row;
 }
 .submit{
-border-radius: 80px;
-    margin-left: 180px;
-    margin-top: 33px;
-    height: 40px;
-    width: 80px;
+    position: absolute;
+    width: 44px;
+    height: 18px;
+    left: 280px;
+    top: 5.7px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height */
+    
+    
+    color: #3F0E40;
 }
 .img1{
     height: 25px;
@@ -34,9 +46,16 @@ border-radius: 80px;
 }
 .avatar{
     margin-top: 22px;
-    margin-left: 450px;
+    margin-left: 750px;
 }
-.arrow{
-    margin-left: 480px;
-margin-top: -20px;
+
+.search_submit{
+    position: absolute;
+    width: 347.5px;
+    height: 37.56px;
+    left: 700px;
+    top: 15px;
+    text-align: right;
+    background: #F8F8F8;
+    border-radius: 7.63736px;
 }

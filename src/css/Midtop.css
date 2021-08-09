@@ -1,10 +1,36 @@
 .mid__top{
     align-content: center;
     justify-content: center;
-    margin-left: 27%;
+  
     margin-top: 20px;
-    margin-right: 21%;
     height: 65px;
     display: flex;
-    background-color: aqua;
+    background-color: #E5E5E5;
+}
+ .h2{
+    text-align: left;
+    margin-right:70% ;
+    position: absolute;
+    margin-top: 20px;
+}
+.midbtn{
+    position: absolute;
+   
+    margin-right:43% ;
+    margin-top: 27px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    height: fit-content;
+    width: 48px;
+    background-color: #3F0E40;
+}
+.hh3{
+    position: absolute;
+    margin-top: 29px;
+    margin-right: 28%;
+}
+.h5{
+    margin-left: 80%;
+    margin-top: 32px;
 }

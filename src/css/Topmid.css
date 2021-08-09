@@ -1,0 +1,16 @@
+.top__mid{
+    background-color: aqua;
+    margin-top: 10px;
+    height: 70px;
+}
+.filter{
+    position: absolute;
+width: 185.36px;
+height: 50.75px;
+left: 1040px;
+top: 100px;
+margin-top: 15px;
+background: #3F0E40;
+border-radius: 8px;
+color: white;
+}
