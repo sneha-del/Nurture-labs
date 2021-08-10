@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nurture-labs/static/css/main.00b0388d.chunk.css",
+    "main.js": "/Nurture-labs/static/js/main.643a17a6.chunk.js",
+    "main.js.map": "/Nurture-labs/static/js/main.643a17a6.chunk.js.map",
+    "runtime-main.js": "/Nurture-labs/static/js/runtime-main.b20b49a9.js",
+    "runtime-main.js.map": "/Nurture-labs/static/js/runtime-main.b20b49a9.js.map",
+    "static/js/2.e40edce8.chunk.js": "/Nurture-labs/static/js/2.e40edce8.chunk.js",
+    "static/js/2.e40edce8.chunk.js.map": "/Nurture-labs/static/js/2.e40edce8.chunk.js.map",
+    "index.html": "/Nurture-labs/index.html",
+    "static/css/main.00b0388d.chunk.css.map": "/Nurture-labs/static/css/main.00b0388d.chunk.css.map",
+    "static/js/2.e40edce8.chunk.js.LICENSE.txt": "/Nurture-labs/static/js/2.e40edce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b20b49a9.js",
+    "static/js/2.e40edce8.chunk.js",
+    "static/css/main.00b0388d.chunk.css",
+    "static/js/main.643a17a6.chunk.js"
+  ]
+}
