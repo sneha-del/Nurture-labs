@@ -1,0 +1,11 @@
+table {
+     border-collapse:collapse;
+background-color:  #FFFFFF; 
+width: 1240px;
+}
+table thead th {
+     border-bottom: 1px solid #000;
+     }
+     td{
+          text-align: center;
+     }

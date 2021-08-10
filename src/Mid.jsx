@@ -14,7 +14,7 @@ const Mid = () => {
             <Topmid/>
             <div className="text"> 
             <h3>The terms you are tracking</h3>
-<p>The data will refresh every 5 minutes</p>
+             <p>The data will refresh every 5 minutes</p>
             </div>
            
             {/* last sec */}

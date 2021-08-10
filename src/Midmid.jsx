@@ -1,4 +1,5 @@
 import React,{Component} from 'react';
+import './css/Midmid.css';
 class Midmid extends Component{
     constructor(props){
         super(props)
@@ -29,6 +30,7 @@ renderTableHeader = () => {
       (
         <tr key={user.id}>
           <td>{user.id}</td>
+          
           <td>{user.keyword}</td>
           <td>{user.goal}</td>
           <td>{user.matches}</td>
@@ -47,12 +49,13 @@ renderTableHeader = () => {
       }
       return users?
       (
-          <table>
+          <table cellPadding="8px" cellSpacing="12px">
               <thead>
-                  <tr>
+                  <tr >
                       {this.renderTableHeader()}
                   </tr>
               </thead>
+              
               <tbody>
                   {this.renderTableRows()}
               </tbody>

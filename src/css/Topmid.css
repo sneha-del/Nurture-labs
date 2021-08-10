@@ -1,7 +1,23 @@
 .top__mid{
-    background-color: aqua;
+    background-color: #FFFFFF;
     margin-top: 10px;
     height: 70px;
+}
+.search__icon{
+    margin-top:20px ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.search2{
+    margin-top: 100px;
+    position: absolute;
+    width: 1000px;
+    height: 37.56px;
+    left: 70px;
+    top: 15px;
+    text-align: left;
+    background: #F8F8F8;
+    border-radius: 7.63736px;
 }
 .filter{
     position: absolute;

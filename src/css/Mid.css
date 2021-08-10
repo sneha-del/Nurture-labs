@@ -13,6 +13,11 @@
     position: absolute;
 width: 167.84px;
 height: 45px;
-left: 590px;
-top: 750px;
+left: 560px;
+top: 600px;
+}
+.text{
+    margin-top: 90px;
+    display: flex;
+    justify-content: space-between;
 }
